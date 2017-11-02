@@ -1,0 +1,6 @@
+### Ignore anything listed here ###
+
+### Ignore any file or directory beginning with / ###
+_*
+*/_*
+*/_
