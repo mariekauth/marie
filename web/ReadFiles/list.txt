@@ -1,4 +1,3 @@
-letter, name
 a, apple
 b, bannana
 c, carrot
@@ -8,6 +7,7 @@ f, fish
 g, goat
 h, horse
 i, igloo
+i, insert
 j, jump
 k, kangaroo
 l, litter
