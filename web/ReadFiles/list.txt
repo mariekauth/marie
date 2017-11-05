@@ -11,7 +11,7 @@ i, insert
 j, jump
 k, kangaroo
 l, litter
-m, monkey
+m, mole
 n, nut
 o, octopus
 p, panda
